@@ -6,7 +6,7 @@
 
 This is the place where I upload my code and try to do my best 💪
 
-I'm Senior SCADA Engineer on the transportation industry 🚧 and I'm currently software engineering student at [42 School](https://www.42urduliz.com/) <img src="https://raw.githubusercontent.com/jaog1992/jaog1992/main/img/42.ico" width="30px">
+I'm Senior SCADA Engineer on the transportation industry 🚦🚧🚛 and I'm currently software engineering student at [42 School](https://www.42urduliz.com/) <img src="https://raw.githubusercontent.com/jaog1992/jaog1992/main/img/42.ico" width="30px">
 
 My current goal is to deepen my knowledge in software engineering 💻, especially in C/C++.
 

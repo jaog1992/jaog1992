@@ -6,16 +6,16 @@
 
 This is the place where I upload my code and try to do my best.
 
-I'm Senior SCADA Engineer on the transportation industry 🚧 and I'm currently software engineering student at [42 School](https://www.42urduliz.com/) <img src="https://raw.githubusercontent.com/jaog1992/jaog1992/main/img/42.jpg" width="30px">
+I'm Senior SCADA Engineer on the transportation industry 🚧 and I'm currently software engineering student at [42 School](https://www.42urduliz.com/) <img src="https://raw.githubusercontent.com/jaog1992/jaog1992/main/img/42.ico" width="30px">
 
 My current goal is to deepen my knowledge in software engineering 💻, especially in C/C++.
 
 Here are some of my achievements and interests:
 
 🎓 Studies:
-    * 📟  Bachelor´s Degree in Industrial Electronic and Automatic Engineering
-    * 🚀  Masters Degree in Space Science and Technology
-    * 💹  Master of Business Administration
+  * 📟  Bachelor´s Degree in Industrial Electronic and Automatic Engineering
+  * 🚀  Masters Degree in Space Science and Technology
+  * 💹  Master of Business Administration
 * 💻  Senior SCADA Engineer in Indra Sistemas
 * 🎸  Worked as a professional guitarrist for 2 years
 * 📜  Former President of the Student Council of the UPV/EHU

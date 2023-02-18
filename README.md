@@ -1,10 +1,10 @@
-[![Linkedin front page image](img/jaog_linkedin.jpg)](https://www.linkedin.com/in/jon-ander-de-ormaetxea-garaizar/)
+[![Linkedin front page image](img/jaog_linkedin.png)](https://www.linkedin.com/in/jon-ander-de-ormaetxea-garaizar/)
 
-## Hello there ! 
+## Hello there! 
 
-### Thanks for visiting! 
+### Thanks for visiting! 😉
 
-This is the place where I upload my code and try to do my best.
+This is the place where I upload my code and try to do my best 💪
 
 I'm Senior SCADA Engineer on the transportation industry 🚧 and I'm currently software engineering student at [42 School](https://www.42urduliz.com/) <img src="https://raw.githubusercontent.com/jaog1992/jaog1992/main/img/42.ico" width="30px">
 
@@ -12,10 +12,9 @@ My current goal is to deepen my knowledge in software engineering 💻, especial
 
 Here are some of my achievements and interests:
 
-🎓 Studies:
-  * 📟  Bachelor´s Degree in Industrial Electronic and Automatic Engineering
-  * 🚀  Masters Degree in Space Science and Technology
-  * 💹  Master of Business Administration
+* 📟  Bachelor´s Degree in Industrial Electronic and Automatic Engineering
+* 🚀  Masters Degree in Space Science and Technology
+* 💹  Master of Business Administration
 * 💻  Senior SCADA Engineer in Indra Sistemas
 * 🎸  Worked as a professional guitarrist for 2 years
 * 📜  Former President of the Student Council of the UPV/EHU
@@ -24,7 +23,7 @@ Here are some of my achievements and interests:
 
 	` If you are 42 cadet: feel free to reach me on Slack -> @jde-orma- `
 	
-Or on any of this social networks:
+Or on linkedin:
 
 <a href="https://www.linkedin.com/in/jon-ander-de-ormaetxea-garaizar/">
   <img align="left" alt=“jaog’s LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />

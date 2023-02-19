@@ -16,7 +16,7 @@ Here are some of my achievements and interests:
 * 🚀  Masters Degree in Space Science and Technology
 * 💹  Master of Business Administration
 * 💻  +6 years of experience as a SCADA Engineer
-* ✅  Worked as a Quality technician for 1 year
+* 👍  Worked as a Quality technician for 1 year
 * 🎸  Worked as a professional guitarrist for 2 years
 * 📜  Former President of the Student Council of the UPV/EHU
 * 🏊  Swimming

@@ -6,9 +6,9 @@
 
 This is the place where I upload my code and try to do my best 💪
 
-I'm Senior SCADA Engineer on the transportation industry 🚦🚧🚛 and I'm currently software engineering student at [42 School](https://www.42urduliz.com/) <img src="https://raw.githubusercontent.com/jaog1992/jaog1992/main/img/42.ico" width="30px">
+I'm a Senior SCADA Engineer in the transportation industry 🚦🚧🚛 and I'm currently a Software Engineering student at [42 School](https://www.42urduliz.com/) <img src="https://raw.githubusercontent.com/jaog1992/jaog1992/main/img/logo-ecole-42.jpg" width="30px">
 
-My current goal is to deepen my knowledge in software engineering 💻, especially in C/C++.
+My current goal is to deepen my knowledge in Software Engineering 💻, especially in C/C++.
 
 Here are some of my achievements and interests:
 
@@ -21,7 +21,7 @@ Here are some of my achievements and interests:
 * 🏊  Swimming
 * 👶  Father of one
 
-	` If you are 42 cadet: feel free to reach me on Slack -> @jde-orma- `
+	` If you are a 42 cadet: feel free to reach me on Slack -> @jde-orma- `
 	
 Or on linkedin:
 
@@ -44,5 +44,5 @@ Or on linkedin:
 ---
 
 <h3 align="center">
-	I would be really happy if you star 🌟 my repositories if they were useful to you !
+	I would be thrilled if you star 🌟 my repositories if they were helpful  to you!
 </h3>

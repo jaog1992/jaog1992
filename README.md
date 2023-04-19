@@ -1,4 +1,4 @@
-[![Linkedin front page image](img/jaog_linkedin.png)](https://www.linkedin.com/in/jon-ander-de-ormaetxea-garaizar/)
+[![Linkedin front page image](img/jaog_linkedin.jpg)](https://www.linkedin.com/in/jon-ander-de-ormaetxea-garaizar/)
 
 ## Hello there! 
 

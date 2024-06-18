@@ -20,7 +20,7 @@ Here are some of my achievements and interests:
 * 🎸  Worked as a professional guitarrist for 2 years
 * 📜  Former President of the Student Council of the UPV/EHU
 * 🏊  Swimming
-* 👶  Father of one
+* 👶  Father of two
 
 	` If you are a 42 cadet: feel free to reach me on Slack -> @jde-orma- `
 	

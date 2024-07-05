@@ -24,11 +24,6 @@ Here are some of my achievements and interests:
 
 	` If you are a 42 cadet: feel free to reach me on Slack -> @jde-orma- `
 	
-Or on linkedin:
-
-<a href="https://www.linkedin.com/in/jon-ander-de-ormaetxea-garaizar/">
-  <img align="left" alt=“jaog’s LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
 <br />
 
 ---

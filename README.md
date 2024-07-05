@@ -1,4 +1,4 @@
-[![Linkedin front page image](img/jaog_linkedin.jpg)]
+![](img/jaog_linkedin.jpg)
 
 ## Hello there! 
 

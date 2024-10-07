@@ -32,8 +32,8 @@
 | 2 | <!-- 2 C--> <p><a href="https://github.com/jaog1992/42_minishell" > Minishell </a></p>  | <!-- 2 CPP --> <p><a href="https://github.com/jaog1992/42_cpp_modules/cpp01" > cpp01 </a></p> | |
 | 3 | <!-- 3 C-->  <p><a href="https://github.com/jaog1992/42_Philosophers" > Philosophers - Threads </a></p>  | <!-- 3 CPP --> <p><a href="https://github.com/jaog1992/42_cpp_modules/cpp02" > cpp02 </a></p> | |
 | 4 | <!-- 4 C--> <p><a href="https://github.com/jaog1992/42_so_long" > So Long - 2D game </a></p>  | <!-- 4 CPP --> <p><a href="https://github.com/jaog1992/42_cpp_modules/cpp03" > cpp03 </a></p> | |
-| 5 | <!-- 5 C--> <p><a href="https://github.com/jaog1992/42_minitalk" > Minitalk -Signals </a></p>  | <!-- 5 CPP --> <p><a href="https://github.com/jaog1992/42_cpp_modules/cpp04" > cpp04 </a></p> | |
-| 6 | <!-- 6 C--> <p><a href="https://github.com/jaog1992/ft_printf" > ft_printf (printf implementation) </a></p>  | <!-- 6 CPP --> | |
+| 5 | <!-- 5 C--> <p><a href="https://github.com/jaog1992/42_minitalk" > Minitalk - Signals </a></p>  | <!-- 5 CPP --> <p><a href="https://github.com/jaog1992/42_cpp_modules/cpp04" > cpp04 </a></p> | |
+| 6 | <!-- 6 C--> <p><a href="https://github.com/jaog1992/ft_printf" > ft_printf </a></p>  | <!-- 6 CPP --> | |
 | 7 | <!-- 7 C --> <p><a href="https://github.com/jaog1992/get_next_line" > get_next_line </a></p>  | <!-- 7 CPP --> | |
 
 <br />

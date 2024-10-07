@@ -16,6 +16,8 @@ Here are some of my achievements and interests:
 * 🏊  Swimming
 * 👶  Father of two
 
+	` If you are a 42 cadet: feel free to reach me on Slack -> @jde-orma- `
+
 ### Languages and Tools :
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
@@ -51,12 +53,6 @@ Here are some of my achievements and interests:
 | 5 | <!-- 5 C--> <p><a href="https://github.com/jaog1992/42_minitalk" > Minitalk - Signals </a></p>  | <!-- 5 CPP --> <p><a href="https://github.com/jaog1992/42_cpp_modules/cpp04" > cpp04 </a></p> | |
 | 6 | <!-- 6 C--> <p><a href="https://github.com/jaog1992/ft_printf" > ft_printf </a></p>  | <!-- 6 CPP --> | |
 | 7 | <!-- 7 C --> <p><a href="https://github.com/jaog1992/get_next_line" > get_next_line </a></p>  | <!-- 7 CPP --> | |
-
-<br />
-<!--
-
-	` If you are a 42 cadet: feel free to reach me on Slack -> @jde-orma- `
- -->
 
 ---
 

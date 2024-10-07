@@ -1,5 +1,21 @@
 [![imagen_portada_linkedin](img/jaog_linkedin.jpg)](https://www.linkedin.com/in/jon-ander-de-ormaetxea-garaizar/)
 
+### Thanks for visiting! 😉
+
+I'm a Software Developer in the transportation industry 🚦🚧🚛 and I'm currently a Software Engineering student at [42 School](https://www.42urduliz.com/)
+
+Here are some of my achievements and interests:
+
+* 📟  Bachelor´s Degree in Industrial Electronic and Automatic Engineering
+* 🚀  Masters Degree in Space Science and Technology
+* 💹  Master of Business Administration
+* 💻  +7 years of experience as a SCADA Engineer
+* 👍  Worked as a Quality technician for 1 year
+* 🎸  Worked as a professional guitarrist for 2 years
+* 📜  Former President of the Student Council of the UPV/EHU
+* 🏊  Swimming
+* 👶  Father of two
+
 ### Languages and Tools :
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
@@ -40,23 +56,8 @@
 <!--
 
 	` If you are a 42 cadet: feel free to reach me on Slack -> @jde-orma- `
-	
-### Thanks for visiting! 😉
-
-I'm a Senior SCADA Engineer in the transportation industry 🚦🚧🚛 and I'm currently a Software Engineering student at [42 School](https://www.42urduliz.com/)
-
-Here are some of my achievements and interests:
-
-* 📟  Bachelor´s Degree in Industrial Electronic and Automatic Engineering
-* 🚀  Masters Degree in Space Science and Technology
-* 💹  Master of Business Administration
-* 💻  +7 years of experience as a SCADA Engineer
-* 👍  Worked as a Quality technician for 1 year
-* 🎸  Worked as a professional guitarrist for 2 years
-* 📜  Former President of the Student Council of the UPV/EHU
-* 🏊  Swimming
-* 👶  Father of two
  -->
+
 ---
 
 | [![jaog's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaog1992&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=prussian)](https://github.com/jaog1992?tab=repositories) | [![jaog1992's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jaog1992&layout=compact&hide_border=true&theme=prussian)](https://github.com/jaog1992?tab=repositories) |

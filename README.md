@@ -28,18 +28,19 @@
 
 | Number | C | C++ |
 |---|:---|:---|
-| 1 | <!-- 0 C --> <p><a href="https://github.com/jaog1992/42_cub3D" > Cub3d - Raytracer </a></p>  | <!-- 1 CPP --> <p><a href="https://github.com/jaog1992/42_cpp_modules" > 42 cpp Modules </a></p> | |
-| 2 | <!-- 2 C--> <p><a href="https://github.com/jaog1992/42_minishell" > Minishell </a></p>  | <!-- 2 CPP --> | |
-| 3 | <!-- 3 C-->  <p><a href="https://github.com/jaog1992/42_Philosophers" > Philosophers - Threads </a></p>  | <!-- 3 CPP --> | |
-| 4 | <!-- 4 C--> <p><a href="https://github.com/jaog1992/42_so_long" > So Long - 2D game </a></p>  | <!-- 4 CPP --> | |
-| 5 | <!-- 5 C--> <p><a href="https://github.com/jaog1992/42_minitalk" > Minitalk -Signals </a></p>  | <!-- 5 CPP --> | |
+| 1 | <!-- 1 C --> <p><a href="https://github.com/jaog1992/42_cub3D" > Cub3d - Raytracer </a></p>  | <!-- 1 CPP --> <p><a href="https://github.com/jaog1992/42_cpp_modules/cpp00" > cpp00 </a></p> | |
+| 2 | <!-- 2 C--> <p><a href="https://github.com/jaog1992/42_minishell" > Minishell </a></p>  | <!-- 2 CPP --> <p><a href="https://github.com/jaog1992/42_cpp_modules/cpp01" > cpp01 </a></p> | |
+| 3 | <!-- 3 C-->  <p><a href="https://github.com/jaog1992/42_Philosophers" > Philosophers - Threads </a></p>  | <!-- 3 CPP --> <p><a href="https://github.com/jaog1992/42_cpp_modules/cpp02" > cpp02 </a></p> | |
+| 4 | <!-- 4 C--> <p><a href="https://github.com/jaog1992/42_so_long" > So Long - 2D game </a></p>  | <!-- 4 CPP --> <p><a href="https://github.com/jaog1992/42_cpp_modules/cpp03" > cpp03 </a></p> | |
+| 5 | <!-- 5 C--> <p><a href="https://github.com/jaog1992/42_minitalk" > Minitalk -Signals </a></p>  | <!-- 5 CPP --> <p><a href="https://github.com/jaog1992/42_cpp_modules/cpp04" > cpp04 </a></p> | |
 | 6 | <!-- 6 C--> <p><a href="https://github.com/jaog1992/ft_printf" > ft_printf (printf implementation) </a></p>  | <!-- 6 CPP --> | |
 | 7 | <!-- 7 C --> <p><a href="https://github.com/jaog1992/get_next_line" > get_next_line </a></p>  | <!-- 7 CPP --> | |
 
-	` If you are a 42 cadet: feel free to reach me on Slack -> @jde-orma- `
-	
 <br />
 <!--
+
+	` If you are a 42 cadet: feel free to reach me on Slack -> @jde-orma- `
+	
 ### Thanks for visiting! 😉
 
 I'm a Senior SCADA Engineer in the transportation industry 🚦🚧🚛 and I'm currently a Software Engineering student at [42 School](https://www.42urduliz.com/)
